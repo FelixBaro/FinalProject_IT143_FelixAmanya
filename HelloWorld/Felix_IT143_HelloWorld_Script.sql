@@ -1,0 +1,2 @@
+-- Hello World SQL script by Felix Amanya
+-- Add your SQL code here
